@@ -1,6 +1,6 @@
 # Folder Assignment
 
-Continue building on the FileItem interface and File and Folder classes that we started working on in class.
+Continue building on the `FileItem` interface and `File` and `Folder` classes that we started working on in class.
 
 Add following two methods to the FileItem interface:
 
@@ -13,9 +13,9 @@ Then implement both methods in the File and Folder classes.
 
 Here is the starter code from class:
 
-* [FileItem.java](main/src/FileItem.java)
-* [File.java](main/src/File.java)
-* [Folder.java](main/src/Folder.java)
+* [FileItem.java](src/main/FileItem.java)
+* [File.java](src/main/File.java)
+* [Folder.java](src/main/Folder.java)
 
 In the File class, the `getSize()` method should simply be a getter that 
 returns the size of the file. However, the size of a Folder is more complicated. 
