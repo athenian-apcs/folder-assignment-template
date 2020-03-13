@@ -13,9 +13,9 @@ Then implement both methods in the File and Folder classes.
 
 Here is the starter code from class:
 
-* [FileItem.java](src/main/FileItem.java)
-* [File.java](src/main/File.java)
-* [Folder.java](src/main/Folder.java)
+* [FileItem.java](src/main/java/FileItem.java)
+* [File.java](src/main/java/File.java)
+* [Folder.java](src/main/java/Folder.java)
 
 In the File class, the `getSize()` method should simply be a getter that 
 returns the size of the file. However, the size of a Folder is more complicated. 
