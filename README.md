@@ -1,6 +1,7 @@
 # Folder Assignment
 
-Continue building on the `FileItem` interface and `File` and `Folder` classes that we started working on in class.
+Continue building on the [FileItem](src/main/java/FileItem.java) interface and [File](src/main/java/File.java) 
+and [Folder](src/main/java/Folder.java) classes that we started working on in class.
 
 Add following two methods to the FileItem interface:
 
